@@ -1,0 +1,28 @@
+
+Surrogate Key: is a primary key which has no mapping to the real world
+e.g., Any integer used as a primary key for a user
+
+Natural Key: is a primary key which has a mapping the real world
+e.g., PAN/Aadhar number used as a primary key for a user
+
+Foreign Key: attribute we can store on a table which helps us to link up to another table
+stores primary key of another table
+
+Composite Kye: 2 or more columns making a primary key
+
+DDL(Data definition language): 
+1 - Used for defining database schema
+
+DCL(Data control language):
+1 - Used for controlling access to the data in database
+2 - User and permissions management
+
+DML(Data manipulation language):
+1 - Used for creating, modifying, deleting data from database
+
+DQL(Data query language):
+1 - Used to query DB for information
+2 - Get the information already stored
+
+Primary Key is both unique and not null
+unique can be null
