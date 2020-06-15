@@ -1,0 +1,8 @@
+This is a little complex database compared to student to explore more query options
+
+tables in sample company database
+1: employee
+2: branch
+3: branch_supplier
+4: client
+5: works_with
